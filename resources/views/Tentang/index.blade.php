@@ -64,8 +64,8 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 intro-text">
                         <h1>Agency Marketing Property & Konsultan Property</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at.</p>
-                        <a href="" class="btn btn-custom btn-lg page-scroll">Learn More</a> </div>
+                        <p>Menyediakan solusi properti sesuai kebutuhan yang anda butuhkan. Kami siap menjadi mitra terpercaya dalam perjalanan properti anda.</p>
+                        <a href="" class="btn btn-custom btn-lg page-scroll">Selengkapnya</a> </div>
                     </div>
                 </div>
             </div>
@@ -80,23 +80,23 @@
             <div class="col-xs-12 col-md-6">
                 <div class="about-text">
                     <h2>Siapa Kita ?</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Agent Property Analisa Properti adalah perusahaan konsultan properti yang berfokus pada penyediaan layanan analisis properti. Kami membantu klien kami untuk memahami pasar properti, menilai properti, dan membuat keputusan investasi properti yang tepat.<br>Kami didukung oleh tim profesional yang berpengalaman dan memiliki pengetahuan yang luas tentang pasar properti. Kami berkomitmen untuk memberikan layanan terbaik bagi klien kami, dan membantu mereka untuk mencapai tujuan investasi properti mereka.</p>
                     <h3>Why Choose Us?</h3>
                     <div class="list-style">
                         <div class="col-lg-6 col-sm-6 col-xs-12">
                             <ul>
-                                <li>Years of Experience</li>
-                                <li>Fully Insured</li>
-                                <li>Cost Control Experts</li>
-                                <li>100% Satisfaction Guarantee</li>
+                                <li>Profesional</li>
+                                <li>Asuransi Penuh</li>
+                                <li>Pakar Kendali Biaya</li>
+                                <li>Jaminan Kepuasan 100%</li>
                             </ul>
                         </div>
                         <div class="col-lg-6 col-sm-6 col-xs-12">
                             <ul>
-                                <li>Free Consultation</li>
-                                <li>Satisfied Customers</li>
-                                <li>Project Management</li>
-                                <li>Affordable Pricing</li>
+                                <li>Gratis Konsultasi</li>
+                                <li>Kepuasan Pelanggan</li>
+                                <li>Manajemen Projek</li>
+                                <li>Harga Terjangkau</li>
                             </ul>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
       <div class="row">
         <div class="section-title">
           <h2></h2>
-          <p>Please fill out the form below to send us an email and we will get back to you as soon as possible.</p>
+          <p>Silakan isi formulir di bawah ini untuk mengirim email kepada kami dan kami akan menghubungi Anda sesegera mungkin.</p>
         </div>
         <form name="sentMessage" id="contactForm" novalidate>
           <div class="row">
