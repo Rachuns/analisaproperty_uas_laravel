@@ -117,7 +117,7 @@
           <div class="row">
             <div class="col-md-6">
               <div class="form-group">
-                <input type="text" id="name" class="form-control" placeholder="Name" required="required">
+                <input type="text" id="name" class="form-control" placeholder="Nama" required="required">
                 <p class="help-block text-danger"></p>
               </div>
             </div>
@@ -129,11 +129,11 @@
             </div>
           </div>
           <div class="form-group">
-            <textarea name="message" id="message" class="form-control" rows="4" placeholder="Message" required></textarea>
+            <textarea name="message" id="message" class="form-control" rows="4" placeholder="Pesan" required></textarea>
             <p class="help-block text-danger"></p>
           </div>
           <div id="success"></div>
-          <button type="submit" class="btn btn-custom btn-lg">Send Message</button>
+          <button type="submit" class="btn btn-custom btn-lg">Kirim Pesan</button>
         </form>
       </div>
     </div>
@@ -167,7 +167,7 @@
 <!-- Footer Section -->
 <div id="footer">
   <div class="container text-center">
-    <p>&copy; 2017 INNOVA. Design by <a href="http://www.templatewire.com" rel="nofollow">TemplateWire</a></p>
+    <p>&copy; 2023 Made by <a href="http://www.templatewire.com" rel="nofollow">Analisa Property</a></p>
   </div>
 </div>
 <script type="text/javascript" src="js/jquery.1.11.1.js"></script> 

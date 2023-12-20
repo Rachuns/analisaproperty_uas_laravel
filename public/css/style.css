@@ -294,7 +294,6 @@ header .intro-text {
 #about {
     padding: 110px 0;
     background: #f6f6f6;
-    margin-top: 100px;
     margin-bottom: 100px;
 }
 
@@ -514,12 +513,24 @@ header .intro-text {
     text-transform: uppercase;
 }
 
-
+/* Button Selengkapnya Bagian Project */
+.center-button{
+    display:flex;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-right: 35vw;
+    margin-left: 35vw;
+    cursor: pointer;
+    
+}
 /* Contact Section */
 
 #contact {
     padding: 100px 0 60px 0;
-    background: #1f386e;
+    background: #e50d8a;
     color: rgba(255, 255, 255, .65);
 }
 
