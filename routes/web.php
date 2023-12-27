@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AdminsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,7 +18,12 @@ Route::get('/', function () {
     return view('/beranda.index');
 });
 
+Route::get('/welcome_admin', function () {
+    return view('admin.welcome_admin');
+});
+
 Route::resource('tentang', App\Http\Controllers\TentangController::class);
+Route::resource('analisa', App\Http\Controllers\AnalisaController::class);
 Route::resource('beranda', App\Http\Controllers\BerandaController::class);
 Route::resource('layanan', App\Http\Controllers\LayananController::class);
 Route::resource('testimoni', App\Http\Controllers\TestimoniController::class);
