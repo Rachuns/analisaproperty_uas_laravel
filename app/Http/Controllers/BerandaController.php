@@ -18,4 +18,8 @@ class BerandaController extends Controller
         $berandas = Beranda::latest()->paginate(20);
         return view('beranda.index',compact('berandas'))->with('i', (request()->input('page',1)-1) * 20);
     }
+    public function badmin()
+    {
+        return view('Beranda.beranda_adm');
+    }
 }

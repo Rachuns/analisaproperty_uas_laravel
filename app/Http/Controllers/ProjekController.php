@@ -18,4 +18,8 @@ class ProjekController extends Controller
         $projeks = Projek::latest()->paginate(20);
         return view('projek.index',compact('projeks'))->with('i', (request()->input('page',1)-1) * 20);
     }
+    public function promin()
+    {
+        return view('Projek.projek_adm');
+    }
 }

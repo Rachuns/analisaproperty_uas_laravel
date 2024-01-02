@@ -1,4 +1,4 @@
-@extends('admin.layout')
+@extends('admin.main')
 @section('content')
 <div class="container-fluid">
     <img src="">
@@ -43,5 +43,5 @@
                 </div>
             </div>
         </div>
-        
+
         @endsection
